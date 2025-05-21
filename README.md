@@ -27,7 +27,7 @@ Simple Bank System is a console-based Java application that demonstrates core ba
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/simple-bank-system.git
+   git clone https://github.com/ritikraj0315/Simple-Banking-Application.git
    cd simple-bank-system
    ```
 
